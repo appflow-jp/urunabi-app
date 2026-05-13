@@ -4,5 +4,4 @@ GitHub Pages設定:
 Branch: main
 Folder: /docs
 
-公開URL:
-https://appflow-jp.github.io/urunabi/
+この版は普通のHTML/CSS/JSなので、_next は不要です。
